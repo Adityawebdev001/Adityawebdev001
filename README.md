@@ -1,5 +1,5 @@
 # 💫 About Me:
-web dev & design guru
+Innovative and dedicated software engineer with a passion for web development and design. I have extensive experience in building, maintaining, and optimizing websites using a wide array of technologies. Skilled in both front-end and back-end development, I’m looking for a full-time role where I can apply my knowledge and continue to grow as a full stack developer while contributing to the success of the company through cutting-edge solutions and efficient workflows.
 
 
 ## 🌐 Socials:
